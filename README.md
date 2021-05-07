@@ -1,1 +1,1 @@
-[![Ido's GitHub stats](https://github-readme-stats.vercel.app/api?username=idoybh)](https://github.com/anuraghazra/github-readme-stats)
+[![Ido's GitHub stats](https://github-readme-stats.vercel.app/api?username=idoybh&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
